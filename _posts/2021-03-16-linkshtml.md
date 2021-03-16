@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTMLs"
-date:   2021-03-08 5:5:5 -0300
+date:   2021-03-15 10:10:10 -0300
 categories: outros
 ---
 
@@ -11,4 +11,4 @@ categories: outros
 
 [HTML para testes](/paginas/index.html)
 
-[Manual colaborativo de MTG](/paginas/mtg/manual_mtg.html)
+[Manual colaborativo de MTG](/paginas/mtg/manual_mtg.htm)
