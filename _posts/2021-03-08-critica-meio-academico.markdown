@@ -5,7 +5,7 @@ date:   2021-03-03 5:5:5 -0300
 categories: coisas
 ---
 
-[](https://media.wizards.com/2018/images/daily/cardart_GRN_Radical-Idea.jpg)
+![](https://media.wizards.com/2018/images/daily/cardart_GRN_Radical-Idea.jpg)
 
 ## Uma singela crítica ao meio acadêmico
 
